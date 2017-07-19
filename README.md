@@ -1,3 +1,8 @@
+# DOES NOT WORK
+# VERSION HERE DOES NOT WORK
+# DO NOT WASTE TIME USING
+*kthx, will fix soon*
+
 # IRCToolKit
 A simple, yet robust IRC Client Framework in PHP
 
