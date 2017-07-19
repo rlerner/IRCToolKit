@@ -1,4 +1,23 @@
 <?php
+/**
+ * IRCToolKit - The PHP IRC Solution.
+ *
+ * Provides a standard interface for creating IRC bots and clients, and handling server connections.
+ *
+ * PHP Version 5.4
+ *
+ * LICENSE: MIT
+ *
+ * @category
+ * @package IRCToolKit
+ * @author Robert Lerner
+ * @copyright 2015-2017 Robert Lerner
+ * @license https://opensource.org/licenses/MIT
+ * @version 0.0.2
+ * @link https://github.com/rlerner/IRCToolKit
+ * @see http://semver.org/
+ */
+
 function parseIRC($line) {
 	if ($line=="version") {
 		return "1.4.0";
